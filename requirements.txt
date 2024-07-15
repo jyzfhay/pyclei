@@ -1,3 +1,5 @@
 requests
 PyYAML
 dnspython
+jsonpath-ng
+aiohttp
