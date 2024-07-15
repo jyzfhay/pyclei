@@ -4,3 +4,4 @@ dnspython
 jsonpath-ng
 aiohttp
 inquirer
+rich
