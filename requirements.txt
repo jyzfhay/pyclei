@@ -3,3 +3,4 @@ PyYAML
 dnspython
 jsonpath-ng
 aiohttp
+inquirer
